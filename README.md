@@ -1,3 +1,24 @@
+Update to README for XenoCoin
+
+There are many crypto currencies being developed now.  XenoCoin is an idea to create a currency that would work as a micro currency or penny-to-dollar or "copper" to litecoin "silver" or bitcoin "gold".
+
+It would have XenoCoin using scrypt as a proof-of-work algorithm.
+ - 5 minute block targets - (twice as long as litecoin)
+ - subsidy halves in 550k blocks (~52 years)
+ - ~1.1 billion total coins
+
+Different from Bitcoin.
+ - 100 coins per block
+
+Same as Bitcoin:
+ - 2016 blocks to retarget difficulty
+
+New Feature - XenoCoin is for basic science research funding using single lowest fraction of transactions - a micro-xeno - to be sent to MetaSciens nonprofit on every trade or transaction.
+When enough currency is built up - a transparent granting process will be set up to distribute money to basic research projects in medicine and other sciences.
+
+The XenoCoin is designed to be useful for over a 100 years from the tiniest to the largest of purchases or transfers.
+
+
 Litecoin integration/staging tree
 ================================
 
